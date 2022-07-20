@@ -1,7 +1,7 @@
 # Regular_shapes
 Enter the number of sides and get the regular polygon by turtle module. 
-<hr>
-<h3>Requirements</h3>
+
+<h2>Requirements</h2>
 
 ```
 pip install turtle
